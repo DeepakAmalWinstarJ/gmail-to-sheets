@@ -1,0 +1,10 @@
+# OAuth secrets
+credentials/credentials.json
+credentials/*.pickle
+
+# State file
+processed_emails.txt
+
+# Python cache
+__pycache__/
+*.pyc
